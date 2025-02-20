@@ -22,7 +22,7 @@ Below is an assessment of each response against the **Customer Service Email Qua
 | **Formatting & Readability**     | 5               | Well-structured, with clear sentences and logical flow. |
 | **Positive Closing**             | 3               | Ends the email appropriately but could include a warmer closing. |
 
-### **Constructive Feedback:**
+### **Feedback:**
 ✔ **Improve empathy** by acknowledging the student's illness more personally.  
 ✔ **Clarify next steps**—explicitly state that no further action is required.  
 ✔ **Increase personalization** by addressing the student by name.  
@@ -51,7 +51,7 @@ Below is an assessment of each response against the **Customer Service Email Qua
 | **Formatting & Readability**     | 5               | Structured with a logical flow. |
 | **Positive Closing**             | 3               | Could include a more supportive and encouraging closing. |
 
-### **Constructive Feedback:**
+### **Feedback:**
 ✔ **Increase empathy**—acknowledge the student's frustration and concerns more directly.  
 ✔ **Clarify next steps**—offer guidance on how the student can appeal or get additional support.  
 ✔ **Strengthen the closing**—provide reassurance or encouragement.  
@@ -82,7 +82,7 @@ Below is an assessment of each response against the **Customer Service Email Qua
 | **Formatting & Readability**     | 5               | Well-structured and easy to read. |
 | **Positive Closing**             | 3               | Ends the email appropriately but could be more encouraging. |
 
-### **Constructive Feedback:**
+### **Feedback:**
 ✔ **Acknowledge student’s proactive approach**—thank them for notifying ahead of time.  
 ✔ **Provide alternatives**—mention any potential resources or future flexibility.  
 
@@ -94,13 +94,12 @@ Below is an assessment of each response against the **Customer Service Email Qua
 
 ---
 
-## **Overall Takeaways**
+## **Overall**
 - **Response 1 (Deadline Extension)** is strong but could **improve empathy**, **clarify next steps**, and **increase personalization**.
 - **Response 2 (Withdrawal Appeal)** provides clear policy details but lacks **empathetic language**, **guidance on appeal options**, and **a warm closing**.
 - **Response 3 (Excused Absence Request)** effectively communicates policy but should **acknowledge the student's effort** and suggest **alternative solutions**.
 
-By making these **small adjustments**, the responses can be more **empathetic, actionable, and customer-friendly** while maintaining **professionalism and policy adherence**. 🚀
+By making these **small adjustments**, the responses can be more **empathetic, actionable, and customer-friendly** while maintaining **professionalism and policy adherence**. 
 
 ---
 **📌 A well-crafted response = A satisfied student!**  
-Let me know if you need any refinements. 😊
