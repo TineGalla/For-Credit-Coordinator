@@ -1,8 +1,3 @@
----
-title: ZD_macro
-
----
-
 # **Evaluation of Customer Service Email Responses Based on Quality Criteria**
 
 Below is an assessment of each response against the **Customer Service Email Quality Criteria**.
